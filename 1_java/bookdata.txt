@@ -1,0 +1,9 @@
+java programming/29000
+JSP Program/26000
+SQL/22000
+Spring Framework/33000
+R/33000
+Hadoop/43000
+EJB Program/30000
+JDBC Program/25000
+
