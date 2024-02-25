@@ -6,7 +6,7 @@ public class Test01_if {
 	public static void main(String[] args) {
 		
 		Scanner input = new Scanner(System.in);
-		System.out.println("성적처리 Application 시작하려면 yes를 입력하세요_");
+		System.out.println("성적처리 Application 시작하려면 yes를 입력하세요>>");
 		
 		String msg = input.nextLine(); 
 		
