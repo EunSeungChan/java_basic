@@ -13,7 +13,7 @@ public class HashMap01 {
 	public static void main(String[] args) {
 		
 		HashMap map = new HashMap();
-		map.put("깁자바", new Integer(90));
+		map.put("김자바", new Integer(90));
 		map.put("깁자바", new Integer(100));
 		map.put("이자바", new Integer(100));
 		map.put("강자바", new Integer(80));
