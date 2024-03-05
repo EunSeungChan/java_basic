@@ -3,19 +3,19 @@ package day06;
 public class BookTest {
 	public static void main(String[] args) {
 
-		Book b1 =new Book();
-		b1.setTitle("java");
-		b1.setPrice(9000); //set property
+		Book bk =new Book();
+		bk.setTitle("java");
+		bk.setPrice(9000); //set property
 		
-		System.out.println(b1); //주소찍음
-		b1.print(); //retrun type = void
+		System.out.println(bk); //주소찍음
+		bk.print(); //retrun type = void
 		
 	}
 
 }
 
 
-//class Book { //data type강함
+//class Book { 
 //	
 //	private String title;
 //	private int price;
